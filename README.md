@@ -1,5 +1,7 @@
 # squel - SQL query string builder
 
+## squel FORK for adding open edge flavour
+
 [![Build Status](https://secure.travis-ci.org/hiddentao/squel.svg?branch=master)](http://travis-ci.org/hiddentao/squel)
 [![CDNJS](https://img.shields.io/cdnjs/v/squel.svg)](https://cdnjs.com/libraries/squel)
 [![NPM module](https://badge.fury.io/js/squel.svg)](https://badge.fury.io/js/squel)
@@ -32,7 +34,7 @@ actively developed alternatives such as [Knex](http://knexjs.org/)_
 Install using [npm](http://npmjs.org/):
 
 ```bash
-$ npm install squel
+$ npm install squel-oe
 ```
 
 ## Available files
